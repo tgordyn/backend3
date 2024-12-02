@@ -1,7 +1,9 @@
 # Primera Entrega Backend 3 - Tomas Gordyn
+
 ## Instalación
+
 1. **Clonar el repositorio:**
-   git clone https://github.com/
+   git clone https://github.com/tgordyn/backend3.git
 2. **Navegar al directorio del repositorio:**
    cd RECURSOSBACKEND-ADOPTME
 3. **Instalar las dependencias:**
@@ -10,6 +12,7 @@
    npm run dev
 
 ## Endpoints agregados:
+
 - /api/mocks/mockingusers: Devuelve 50 usuarios
   - ![MockingUsers](./assets/mockingusers.png)
 - - /api/mocks/mockingpets: Devuelve 100 mascotas
